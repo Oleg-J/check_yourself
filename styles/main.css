@@ -1,0 +1,20 @@
+button {
+    width: 200px;
+    height: 50px;
+    font-size: 27px;
+    font-family: 'Franklin Gothic Medium';
+    background-color: #e9dd5a;
+    border-radius: 25px;
+    border-color: #1b0a46;
+}
+
+.score_container, .main_container {
+    border: 2px solid #1b0a46;
+    border-radius: 10px;
+}
+
+.score_container {
+    font-size: 18px;
+    font-family: 'Lucida Sans';
+    background-color: #d8f3a2fa;
+}
